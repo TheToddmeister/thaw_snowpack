@@ -3,9 +3,10 @@
 <p> Thaw Snowpack builds on the thaw UI framework to provide additional components that may fall out of scope for the Thaw framework</p>
 <p> Snowpack is heavily feature gated to prevent bloat</p>
 <p> Snowpack aims to be headless</p>
-<p> Snowpack aims to be easy to use, understandable and reliable over performance</p>
-<p> Snowpack does not aim to be a complete collection collection of compnents for frontend develeopment</p>
-
+<p> Snowpack aims to be easy to use, understandable and reliable over performance and footprint</p>
+<p> Snowpack will be opinionated </p>
+<p> Snowpack does not aim to make production ready designs,
+but functional, easy-to use plug-ins for scaffolding and inspiration, with sensible defaults</p>
 
 <p align="center" >
     <img src="https://raw.githubusercontent.com/thaw-ui/thaw/main/logo.svg" alt="Thaw Logo" width="160px"/>
